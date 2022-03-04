@@ -4,8 +4,7 @@ Tiago Santos
 
 ``2213060``
 
-###Linguagens de programação:
-wdadawd
+### Linguagens de programação:
 * C
 * Javasript
 * Pyhton
